@@ -1,5 +1,9 @@
 import styled from 'styled-components'
 
+export const Container = styled.div`
+  /* Estilos para o container de vagas, se necessário */
+`
+
 export const Lista = styled.ul`
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
